@@ -1,0 +1,50 @@
+.title{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    color: black;
+    background-color: aquamarine;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#dg{
+    color: white;
+    background-color: black;
+}
+
+#vo{
+    color:yellow;
+    background-color: green;
+}
+
+.description{
+    font-size: 30 px;
+    color: black;
+    background-color: #5087ff;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.subtitle{
+    text-align: center;
+    font-size: 50 px;
+    color: black;
+    background-color:bisque;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.list{
+    font-size: 30px;
+    color: black;
+    background-color: #c25b5b;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#dgi{
+    height: auto;
+    width: 400px;
+}
+
+#vgi{
+    height: auto;
+    width: 500px;
+}
